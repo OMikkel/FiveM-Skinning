@@ -6,7 +6,7 @@ I skinned this for my own server, but unfortunately it didnt go as planned, so h
 
 ## Preview
 
-![EC135 Akutlæge Preview](https://i.imgur.com/hBIilZN.jpg)
+![Danish EMS Vehicles pack Preview](https://i.imgur.com/hBIilZN.jpg)
 
 ## Installation
  - **#1** Replace the Kraken Network logo with your own.
